@@ -179,9 +179,8 @@ main {
     font-size: clamp(1.5rem, 1.182rem + 1.59vw, 2.375rem);
     font-weight: 600;
 }
-.m_left {
+.m_left img {
     width: 100%;
-    max-width: 344px;
 }
 @media (max-width: 1180px) {
     .m_main {
@@ -201,9 +200,8 @@ main {
         justify-content: center;
         align-items: center;
     }
-    .m_left {
+    .m_left img {
         width: 100%;
-        max-width: 100%;
     }
 }
 aside {
