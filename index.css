@@ -180,7 +180,6 @@ main {
 }
 .m_left img {
     width: 100%;
-    max-width: 448px;
 }
 @media (max-width: 1180px) {
     .m_main {
